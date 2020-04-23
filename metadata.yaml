@@ -1,5 +1,8 @@
 _repo: Der-Harz_61833
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61833-h/images/cover.jpg
 creator:
   author:
     agent_name: Günther, Friedrich
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51637'
     url: http://www.gutenberg.org/2009/agents/51637
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61833#Der-Harz
 gutenberg_issued: '2020-04-14'
 gutenberg_type: Text
 identifiers:
