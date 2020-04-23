@@ -1,0 +1,32 @@
+_repo: Der-Harz_61833
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Günther, Friedrich
+    alias: Gunther, Friedrich
+    birthdate: 1843
+    deathdate: 1912
+    gutenberg_agent_id: '51637'
+    url: http://www.gutenberg.org/2009/agents/51637
+description: ''
+gutenberg_issued: '2020-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61833'
+  lccn: '01020725'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harz Mountains (Germany) -- Description and travel'
+- !lcc 'DD'
+- GITenberg
+tableOfContents: Einleitung -- Geographischer Überblick -- Geologische Übersicht --
+  Das Klima -- Geschichtlicher Überblick -- Land und Leute -- Die Hochebene von Klausthal
+  -- Die Söselandschaft -- Die Innerstelandschaft -- Die Okerlandschaft -- Die Oderlandschaft
+  -- Der Brocken und das Brockenfeld -- Radau, Ecker und Ilse -- Die Holtemme -- Die
+  Bodelandschaft -- Die Selkelandschaft -- Die Wipperlandschaft; Mansfelder Bergbaugebiet
+  -- Die Helmelandschaft.
+title: Der Harz
+url: http://www.gutenberg.org/ebooks/61833
